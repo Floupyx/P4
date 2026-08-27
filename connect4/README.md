@@ -1,0 +1,1 @@
+to Start: go to connect4 then npm install then go to the src folder then enter: npm run dev and click the link.
